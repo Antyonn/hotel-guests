@@ -1,0 +1,15 @@
+C:\structs\structs\bin\Debug\net6.0\structs.exe
+C:\structs\structs\bin\Debug\net6.0\structs.deps.json
+C:\structs\structs\bin\Debug\net6.0\structs.runtimeconfig.json
+C:\structs\structs\bin\Debug\net6.0\structs.dll
+C:\structs\structs\bin\Debug\net6.0\structs.pdb
+C:\structs\structs\obj\Debug\net6.0\structs.csproj.AssemblyReference.cache
+C:\structs\structs\obj\Debug\net6.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\structs\structs\obj\Debug\net6.0\structs.AssemblyInfoInputs.cache
+C:\structs\structs\obj\Debug\net6.0\structs.AssemblyInfo.cs
+C:\structs\structs\obj\Debug\net6.0\structs.csproj.CoreCompileInputs.cache
+C:\structs\structs\obj\Debug\net6.0\structs.dll
+C:\structs\structs\obj\Debug\net6.0\refint\structs.dll
+C:\structs\structs\obj\Debug\net6.0\structs.pdb
+C:\structs\structs\obj\Debug\net6.0\structs.genruntimeconfig.cache
+C:\structs\structs\obj\Debug\net6.0\ref\structs.dll
